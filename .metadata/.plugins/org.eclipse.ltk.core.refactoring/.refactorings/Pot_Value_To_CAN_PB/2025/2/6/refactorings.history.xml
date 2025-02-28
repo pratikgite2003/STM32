@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Pot_Value_To_CAN_PB/CAN_NORMAL_MODE.ioc&apos; to &apos;Pot_Value_To_CAN_PB.ioc&apos;" description="Rename resource &apos;CAN_NORMAL_MODE.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="CAN_NORMAL_MODE.ioc" name="Pot_Value_To_CAN_PB.ioc" stamp="1738915475024" updateReferences="true"/>
+</session>
